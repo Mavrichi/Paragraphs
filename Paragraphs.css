@@ -146,8 +146,8 @@ p {
    border-radius: 0;
    border-style: solid;
    border-width: thin;
-   font-family: sans-serif;
-   font-weight: 400;
+   font-family: "raleway", sans-serif;
+   font-weight: 300;
    text-transform: uppercase;
 }
 .button1:hover {
